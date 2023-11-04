@@ -1,5 +1,5 @@
-const Tiger = require('./modularization/Tiger')// TODO 3
-const Wolf = require('./modularization/Wolf')// TODO 4
+const Tiger = require('./Tiger.js')// TODO 3
+const Wolf = require('./Wolf.js')// TODO 4
  
 const fighting = (tiger, wolf) => {
   if(tiger.strength > wolf.strength) {
