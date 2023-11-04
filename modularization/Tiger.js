@@ -7,5 +7,5 @@ class Tiger {
       console.log('grrrrr!')
     }
   }
-   
-  // TODO 1
+
+  module.exports = Tiger
